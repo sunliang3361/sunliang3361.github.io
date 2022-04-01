@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="icon" href="">
-  <title>Liang Sun, Ph.D.</title>
+  <link rel="icon" href="https://raw.githubusercontent.com/dosorio/dosorio.github.io/main/assets/img/headshot.jpg">
+  <title>Daniel Osorio, Ph.D.</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.min.css"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.0/css/all.css" rel="stylesheet">
 
@@ -76,7 +76,10 @@
       <div class="row">
         <div class="column">
             <h2 class="ui header">About me</h2>
-            <p>.</p>
+            <p>My name is Daniel Osorio. I am a Colombian computational biologist. Currently I'm working as a postdoctoral fellow at the Livestrong Cancer Institutes at UT Austin Dell Medical School.
+              I have a doctorate in Biomedical Sciences (Biomedical Genomics and Bioinformatics) from Texas A&M University.
+              My research focuses on software development for the study of high throughput single-cell RNA-seq data, gene regulatory networks, data mining, metabolic modeling and bioactive peptides.
+              I also hold a master’s of science in bioinformatics and a bachelor's of science in biology from Colombian universities.</p>
         </div>
       </div>
     <div class="row">
