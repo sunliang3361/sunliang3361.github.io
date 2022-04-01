@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="icon" href="https://raw.githubusercontent.com/dosorio/dosorio.github.io/main/assets/img/headshot.jpg">
+  <link rel="icon" href="">
   <title>Daniel Osorio, Ph.D.</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.min.css"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.0/css/all.css" rel="stylesheet">
